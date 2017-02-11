@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/internal
+END
+ExpandGraphLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/internal/ExpandGraphLabel.java
+END
+PolylineArcConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/internal/PolylineArcConnection.java
+END
+AspectRatioFreeformLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/internal/AspectRatioFreeformLayer.java
+END
+RoundedChopboxAnchor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/internal/RoundedChopboxAnchor.java
+END
+AligningBendpointLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/internal/AligningBendpointLocator.java
+END
+LoopAnchor.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/internal/LoopAnchor.java
+END
+XYScaledGraphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/internal/XYScaledGraphics.java
+END
+GraphLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/internal/GraphLabel.java
+END
+ContainerFigure.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/internal/ContainerFigure.java
+END
+ZestRootLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/internal/ZestRootLayer.java
+END
+CachedLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/internal/CachedLabel.java
+END
+RevealListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/internal/RevealListener.java
+END
+SharedMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/internal/SharedMessages.java
+END

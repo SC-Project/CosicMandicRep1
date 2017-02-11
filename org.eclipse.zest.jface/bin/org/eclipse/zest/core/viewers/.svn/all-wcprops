@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/2012l/sok/tim5/svn/!svn/ver/89/trunk/plugins/org.eclipse.zest.jface/src/org/eclipse/zest/core/viewers
+END
+ISelfStyleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/2012l/sok/tim5/svn/!svn/ver/75/trunk/plugins/org.eclipse.zest.jface/src/org/eclipse/zest/core/viewers/ISelfStyleProvider.java
+END
+AbstractStructuredGraphViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/2012l/sok/tim5/svn/!svn/ver/75/trunk/plugins/org.eclipse.zest.jface/src/org/eclipse/zest/core/viewers/AbstractStructuredGraphViewer.java
+END
+EntityConnectionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/2012l/sok/tim5/svn/!svn/ver/75/trunk/plugins/org.eclipse.zest.jface/src/org/eclipse/zest/core/viewers/EntityConnectionData.java
+END
+IGraphEntityRelationshipContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/2012l/sok/tim5/svn/!svn/ver/75/trunk/plugins/org.eclipse.zest.jface/src/org/eclipse/zest/core/viewers/IGraphEntityRelationshipContentProvider.java
+END
+INestedContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/2012l/sok/tim5/svn/!svn/ver/75/trunk/plugins/org.eclipse.zest.jface/src/org/eclipse/zest/core/viewers/INestedContentProvider.java
+END
+IGraphContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/2012l/sok/tim5/svn/!svn/ver/75/trunk/plugins/org.eclipse.zest.jface/src/org/eclipse/zest/core/viewers/IGraphContentProvider.java
+END
+IGraphEntityContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/2012l/sok/tim5/svn/!svn/ver/75/trunk/plugins/org.eclipse.zest.jface/src/org/eclipse/zest/core/viewers/IGraphEntityContentProvider.java
+END
+AbstractZoomableViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/2012l/sok/tim5/svn/!svn/ver/75/trunk/plugins/org.eclipse.zest.jface/src/org/eclipse/zest/core/viewers/AbstractZoomableViewer.java
+END
+GraphViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/2012l/sok/tim5/svn/!svn/ver/75/trunk/plugins/org.eclipse.zest.jface/src/org/eclipse/zest/core/viewers/GraphViewer.java
+END
+IFigureProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/2012l/sok/tim5/svn/!svn/ver/75/trunk/plugins/org.eclipse.zest.jface/src/org/eclipse/zest/core/viewers/IFigureProvider.java
+END
+IZoomableWorkbenchPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/2012l/sok/tim5/svn/!svn/ver/75/trunk/plugins/org.eclipse.zest.jface/src/org/eclipse/zest/core/viewers/IZoomableWorkbenchPart.java
+END
+ZoomContributionViewItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/2012l/sok/tim5/svn/!svn/ver/75/trunk/plugins/org.eclipse.zest.jface/src/org/eclipse/zest/core/viewers/ZoomContributionViewItem.java
+END
+IConnectionStyleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/2012l/sok/tim5/svn/!svn/ver/75/trunk/plugins/org.eclipse.zest.jface/src/org/eclipse/zest/core/viewers/IConnectionStyleProvider.java
+END
+IEntityConnectionStyleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/2012l/sok/tim5/svn/!svn/ver/75/trunk/plugins/org.eclipse.zest.jface/src/org/eclipse/zest/core/viewers/IEntityConnectionStyleProvider.java
+END
+IEntityStyleProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/2012l/sok/tim5/svn/!svn/ver/75/trunk/plugins/org.eclipse.zest.jface/src/org/eclipse/zest/core/viewers/IEntityStyleProvider.java
+END

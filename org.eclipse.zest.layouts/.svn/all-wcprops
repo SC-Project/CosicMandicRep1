@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/license.txt
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/build.properties
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/.cvsignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/pom.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/.project
+END
+about.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/about.html
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/plugin.xml
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/plugin.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/.classpath
+END

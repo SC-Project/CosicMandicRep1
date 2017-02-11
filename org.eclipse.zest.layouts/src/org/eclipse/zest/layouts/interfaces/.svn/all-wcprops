@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/interfaces
+END
+LayoutListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/interfaces/LayoutListener.java
+END
+EntityLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/interfaces/EntityLayout.java
+END
+NodeLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/interfaces/NodeLayout.java
+END
+PruningListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/interfaces/PruningListener.java
+END
+GraphStructureListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/interfaces/GraphStructureListener.java
+END
+SubgraphLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/interfaces/SubgraphLayout.java
+END
+ConnectionLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/interfaces/ConnectionLayout.java
+END
+ExpandCollapseManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/interfaces/ExpandCollapseManager.java
+END
+LayoutContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/interfaces/LayoutContext.java
+END
+ContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/interfaces/ContextListener.java
+END

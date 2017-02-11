@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/algorithms
+END
+DirectedGraphLayoutAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/algorithms/DirectedGraphLayoutAlgorithm.java
+END
+GridLayoutAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/algorithms/GridLayoutAlgorithm.java
+END
+TreeLayoutObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/algorithms/TreeLayoutObserver.java
+END
+CompositeLayoutAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/algorithms/CompositeLayoutAlgorithm.java
+END
+HorizontalShift.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/algorithms/HorizontalShift.java
+END
+AlgorithmHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/algorithms/AlgorithmHelper.java
+END
+BoxLayoutAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/algorithms/BoxLayoutAlgorithm.java
+END
+SpringLayoutAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/algorithms/SpringLayoutAlgorithm.java
+END
+TreeLayoutAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/algorithms/TreeLayoutAlgorithm.java
+END
+RadialLayoutAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/algorithms/RadialLayoutAlgorithm.java
+END
+HorizontalShiftAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/algorithms/HorizontalShiftAlgorithm.java
+END
+SpaceTreeLayoutAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/2012l/sok/tim5/svn/!svn/ver/76/trunk/plugins/org.eclipse.zest.layouts/src/org/eclipse/zest/layouts/algorithms/SpaceTreeLayoutAlgorithm.java
+END

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_hdwRgACFEeSBmpjNWCSS0Q" elementId="org.eclipse.e4.ide.application" visible="false" bindingContexts="_hdw4kACFEeSBmpjNWCSS0Q">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_hdwRgQCFEeSBmpjNWCSS0Q" label="EquiNOOBSTim1" width="800" height="600">
+    <children xsi:type="advanced:PerspectiveStack" xmi:id="_0RePMACFEeSBmpjNWCSS0Q" elementId="equinoobstim1.perspectivestack.0">
+      <children xsi:type="advanced:Perspective" xmi:id="_0jMRUACFEeSBmpjNWCSS0Q" elementId="perspectiveEquinoobs">
+        <children xsi:type="basic:PartSashContainer" xmi:id="_1YjMAACFEeSBmpjNWCSS0Q" elementId="equinoobstim1.partsashcontainer.0" horizontal="true">
+          <children xsi:type="basic:Part" xmi:id="_YubUcACGEeSBmpjNWCSS0Q" elementId="treePart" containerData="20" contributionURI="bundleclass://EquiNOOBSTim1.tree/equinoobstim1.tree.TreeView"/>
+          <children xsi:type="basic:PartSashContainer" xmi:id="_BZYgoACGEeSBmpjNWCSS0Q" elementId="equinoobstim1.partsashcontainer.1" containerData="80">
+            <children xsi:type="basic:PartStack" xmi:id="_Lf6rwACGEeSBmpjNWCSS0Q" elementId="vizualizatorPartStack" containerData="70"/>
+            <children xsi:type="basic:PartStack" xmi:id="_L5N8kACGEeSBmpjNWCSS0Q" elementId="consolePartStack" containerData="30">
+              <children xsi:type="basic:Part" xmi:id="_MkzQMACGEeSBmpjNWCSS0Q" elementId="consolePart" contributionURI="bundleclass://EquiNOOBSTim1.view/equinoobstim1.view.console.ConsoleView"/>
+            </children>
+          </children>
+        </children>
+      </children>
+    </children>
+    <mainMenu xmi:id="_o04QEACFEeSBmpjNWCSS0Q" elementId="mainMenu">
+      <children xsi:type="menu:Menu" xmi:id="_pIcFQACFEeSBmpjNWCSS0Q" elementId="filePodMenu" label="File">
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_qOgVcACFEeSBmpjNWCSS0Q" elementId="openMenuItem" label="Open" command="_ypWlEAHpEeSVPfWjYslw7Q"/>
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_qfYqEACFEeSBmpjNWCSS0Q" elementId="saveMenuItem" label="Save" command="_0MoVsAHpEeSVPfWjYslw7Q"/>
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_qxCawACFEeSBmpjNWCSS0Q" elementId="saveAsMenuItem" label="Save As" command="_AgSqQAHrEeSVPfWjYslw7Q"/>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_rG4H4ACFEeSBmpjNWCSS0Q" elementId="equinoobstim1.menuseparator.0"/>
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_radyQACFEeSBmpjNWCSS0Q" elementId="importMenuItem" label="Import" command="_4IZjgAHwEeSmXq-NTitikw"/>
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_ruceMACFEeSBmpjNWCSS0Q" elementId="exportMenuItem" label="Export" command="_AgSqQAHrEeSVPfWjYslw7Q"/>
+        <children xsi:type="menu:MenuSeparator" xmi:id="_sLCTkACFEeSBmpjNWCSS0Q" elementId="equinoobstim1.menuseparator.1"/>
+        <children xsi:type="menu:HandledMenuItem" xmi:id="_sgSK0ACFEeSBmpjNWCSS0Q" elementId="closeMenuItem" label="Close" command="_AgSqQAHrEeSVPfWjYslw7Q"/>
+      </children>
+      <children xsi:type="menu:Menu" xmi:id="_pZ_vUACFEeSBmpjNWCSS0Q" elementId="editPodMenu" label="Edit"/>
+      <children xsi:type="menu:Menu" xmi:id="_p00DEACFEeSBmpjNWCSS0Q" elementId="pluginsPodMenu" label="Plug-ins"/>
+    </mainMenu>
+    <trimBars xmi:id="_9ECwsACIEeSBmpjNWCSS0Q" elementId="equinoobstim1.tmToolbar">
+      <children xsi:type="menu:ToolBar" xmi:id="__uQ7QACIEeSBmpjNWCSS0Q" elementId="toolbarEquinoobs">
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Ah_eQACJEeSBmpjNWCSS0Q" elementId="equinoobstim1.htiOpenXML" label="Open" iconURI="platform:/plugin/EquiNOOBSTim1/icons/folder_open_XML.png" tooltip="Open XML file" command="_ypWlEAHpEeSVPfWjYslw7Q"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_ptlZUAKsEeSZmPifyTsW1w" elementId="equinoobstim1.htiOpenDB" label="Open DB file" iconURI="platform:/plugin/EquiNOOBSTim1/icons/folder_open_DB.png" tooltip="Open DB file" command="_4IZjgAHwEeSmXq-NTitikw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_F4V34ACJEeSBmpjNWCSS0Q" elementId="equinoobstim1.htiSaveXML" label="Save XML file" iconURI="platform:/plugin/EquiNOOBSTim1/icons/save.png" tooltip="Save XML file" command="_0MoVsAHpEeSVPfWjYslw7Q"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_HoZAMAKtEeSZmPifyTsW1w" elementId="equinoobstim1.htiSaveDB" label="Save DB file" iconURI="platform:/plugin/EquiNOOBSTim1/icons/save-DB.png" tooltip="Save DB file" command="_QQq54AT4EeSoZMQNxl7nIg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_5s044ALbEeScftaKF-CgXA" elementId="equinoobstim1.htiPluginManager" iconURI="platform:/plugin/EquiNOOBSTim1/icons/plugin.png" tooltip="Plugin Manager" command="_A0YU8ALdEeScftaKF-CgXA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_8E0osARUEeSAqsEPuVtryw" elementId="equinoobstim1.htiFind" iconURI="platform:/plugin/EquiNOOBSTim1/icons/search.png" tooltip="Find" command="_nP0vwARUEeSAqsEPuVtryw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_gZjdcAUCEeSQg6dwfSmJpQ" elementId="equinoobstim1.htiFilter" iconURI="platform:/plugin/EquiNOOBSTim1/icons/filter.png" command="_n9eh4AUCEeSQg6dwfSmJpQ"/>
+      </children>
+    </trimBars>
+  </children>
+  <handlers xmi:id="_pXz4gAH6EeSmXq-NTitikw" elementId="equinoobstim1.handlers.ImportDBHandler" contributionURI="bundleclass://EquiNOOBSTim1.db.source/equinoobstim1.db.source.ImportDBHandler" command="_4IZjgAHwEeSmXq-NTitikw"/>
+  <handlers xmi:id="_EDLu8AH7EeSmXq-NTitikw" elementId="equinoobstim1.handlers.CloseProgramHandler" contributionURI="bundleclass://EquiNOOBSTim1/equinoobstim1.handlers.CloseProgramHandler" command="_AgSqQAHrEeSVPfWjYslw7Q"/>
+  <handlers xmi:id="_Uy_7MAH7EeSmXq-NTitikw" elementId="equinoobstim1.handlers.OpenXMLHandler" contributionURI="bundleclass://OpenSaveXML/equinoobstim1.opensavexml.OpenXMLHandler" command="_ypWlEAHpEeSVPfWjYslw7Q"/>
+  <handlers xmi:id="_ZXCHEAH7EeSmXq-NTitikw" elementId="equinoobstim1.handlers.SaveXMLHandler" contributionURI="bundleclass://EquiNOOBSTim1/equinoobstim1.handlers.SaveXMLHandler" command="_0MoVsAHpEeSVPfWjYslw7Q"/>
+  <handlers xmi:id="_GFxWEALdEeScftaKF-CgXA" elementId="equinoobstim1.handlers.PluginHandler" contributionURI="bundleclass://EquiNOOBSTim1/equinoobstim1.handlers.PluginManagerHandler" command="_A0YU8ALdEeScftaKF-CgXA"/>
+  <handlers xmi:id="_HusrUARUEeSAqsEPuVtryw" elementId="equinoobstim1.handlers.FindHandler" contributionURI="bundleclass://EquiNOOBSTim1/equinoobstim1.handlers.FindHandler" command="_nP0vwARUEeSAqsEPuVtryw"/>
+  <handlers xmi:id="_vUP7IAUCEeSQg6dwfSmJpQ" elementId="equinoobstim1.handlers.FilterHandler" contributionURI="bundleclass://EquiNOOBSTim1/equinoobstim1.handlers.FilterHandler" command="_n9eh4AUCEeSQg6dwfSmJpQ"/>
+  <handlers xmi:id="_Se6TEAT4EeSoZMQNxl7nIg" elementId="equinoobstim1.handlers.ExportDB" contributionURI="bundleclass://EquiNOOBSTim1.db.source/equinoobstim1.db.source.ExportDBHandler" command="_QQq54AT4EeSoZMQNxl7nIg"/>
+  <rootContext xmi:id="_hdw4kACFEeSBmpjNWCSS0Q" elementId="org.eclipse.ui.contexts.dialogAndWindow" name="In Dialog and Windows">
+    <children xmi:id="_hdw4kQCFEeSBmpjNWCSS0Q" elementId="org.eclipse.ui.contexts.window" name="In Windows"/>
+    <children xmi:id="_hdw4kgCFEeSBmpjNWCSS0Q" elementId="org.eclipse.ui.contexts.dialog" name="In Dialogs"/>
+  </rootContext>
+  <commands xmi:id="_ypWlEAHpEeSVPfWjYslw7Q" elementId="EquiNOOBSTim1.comOpenXML" commandName="OpenXML"/>
+  <commands xmi:id="_0MoVsAHpEeSVPfWjYslw7Q" elementId="EquiNOOBSTim1.comSaveXML" commandName="SaveXML"/>
+  <commands xmi:id="_AgSqQAHrEeSVPfWjYslw7Q" elementId="EquiNOOBSTim1.comCloseProgram" commandName="CloseProgram"/>
+  <commands xmi:id="_4IZjgAHwEeSmXq-NTitikw" elementId="EquiNOOBSTim1.ImportDB" commandName="ImportDB"/>
+  <commands xmi:id="_A0YU8ALdEeScftaKF-CgXA" elementId="EquiNOOBSTim1.pluginManager" commandName="PluginManager"/>
+  <commands xmi:id="_nP0vwARUEeSAqsEPuVtryw" elementId="EquiNOOBSTim1.Find" commandName="Find"/>
+  <commands xmi:id="_n9eh4AUCEeSQg6dwfSmJpQ" elementId="EquiNOOBSTim1.Filter" commandName="Filter"/>
+  <commands xmi:id="_QQq54AT4EeSoZMQNxl7nIg" elementId="EquiNOOBSTim1.ExportDB" commandName="ExportDB"/>
+  <addons xmi:id="_hdwRggCFEeSBmpjNWCSS0Q" elementId="org.eclipse.e4.core.commands.service" contributionURI="bundleclass://org.eclipse.e4.core.commands/org.eclipse.e4.core.commands.CommandServiceAddon"/>
+  <addons xmi:id="_hdwRgwCFEeSBmpjNWCSS0Q" elementId="org.eclipse.e4.ui.contexts.service" contributionURI="bundleclass://org.eclipse.e4.ui.services/org.eclipse.e4.ui.services.ContextServiceAddon"/>
+  <addons xmi:id="_hdwRhACFEeSBmpjNWCSS0Q" elementId="org.eclipse.e4.ui.bindings.service" contributionURI="bundleclass://org.eclipse.e4.ui.bindings/org.eclipse.e4.ui.bindings.BindingServiceAddon"/>
+  <addons xmi:id="_hdwRhQCFEeSBmpjNWCSS0Q" elementId="org.eclipse.e4.ui.workbench.commands.model" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.CommandProcessingAddon"/>
+  <addons xmi:id="_hdwRhgCFEeSBmpjNWCSS0Q" elementId="org.eclipse.e4.ui.workbench.handler.model" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
+  <addons xmi:id="_hdwRhwCFEeSBmpjNWCSS0Q" elementId="org.eclipse.e4.ui.workbench.contexts.model" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.ContextProcessingAddon"/>
+  <addons xmi:id="_hdwRiACFEeSBmpjNWCSS0Q" elementId="org.eclipse.e4.ui.workbench.bindings.model" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.swt/org.eclipse.e4.ui.workbench.swt.util.BindingProcessingAddon"/>
+</application:Application>

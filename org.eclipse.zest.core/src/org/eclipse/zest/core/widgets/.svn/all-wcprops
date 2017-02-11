@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/2012l/sok/tim5/svn/!svn/ver/129/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets
+END
+GraphNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/GraphNode.java
+END
+DefaultSubgraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/DefaultSubgraph.java
+END
+ZestStyles.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/ZestStyles.java
+END
+Graph.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/2012l/sok/tim5/svn/!svn/ver/129/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/Graph.java
+END
+ILabeledFigure.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/ILabeledFigure.java
+END
+FisheyeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/FisheyeListener.java
+END
+CGraphNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/CGraphNode.java
+END
+GraphConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/GraphConnection.java
+END
+InternalNodeLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/InternalNodeLayout.java
+END
+InternalLayoutContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/InternalLayoutContext.java
+END
+IStyleableFigure.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/IStyleableFigure.java
+END
+LayoutFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/LayoutFilter.java
+END
+GraphItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/GraphItem.java
+END
+SubgraphFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/SubgraphFactory.java
+END
+DAGExpandCollapseManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/DAGExpandCollapseManager.java
+END
+IContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/IContainer.java
+END
+PrunedSuccessorsSubgraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/PrunedSuccessorsSubgraph.java
+END
+GraphContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/GraphContainer.java
+END
+FigureSubgraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/FigureSubgraph.java
+END

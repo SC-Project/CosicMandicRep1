@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Model
+Bundle-SymbolicName: EquiNOOBSTim1.model
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: equinoobstim1.model.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: org.eclipse.swt.widgets,
+ org.osgi.framework;version="1.3.0"
+Export-Package: equinoobstim1.model,equinoobstim1.source
+Bundle-ActivationPolicy: lazy

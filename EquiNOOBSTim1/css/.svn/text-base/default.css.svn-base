@@ -1,0 +1,3 @@
+CTabItem {
+    swt-show-close: true !important;   
+}

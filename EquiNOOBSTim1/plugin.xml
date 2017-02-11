@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+
+   <extension
+         id="product"
+         point="org.eclipse.core.runtime.products">
+      <product
+            name="EquiNOOBSTim1"
+            application="org.eclipse.e4.ui.workbench.swt.E4Application">
+         <property
+               name="applicationCSS"
+               value="platform:/plugin/EquiNOOBSTim1/css/default.css">
+         </property>
+         <property
+               name="appName"
+               value="EquiNOOBSTim1">
+         </property>
+      </product>
+   </extension>
+   <extension
+         id="commands"
+         point="org.eclipse.ui.commands">
+      <command
+            defaultHandler="equinoobstim1.handlers.ImportDBHandler"
+            id="EquiNOOBSTim1.ImportDB"
+            name="ImportDB">
+      </command>
+      <command
+            defaultHandler="equinoobstim1.handlers.OpenXMLHandler"
+            id="EquiNOOBSTim1.comOpenXML"
+            name="OpenXML">
+      </command>
+      <command
+            defaultHandler="equinoobstim1.handlers.SaveXMLHandler"
+            id="EquiNOOBSTim1.comSaveXML"
+            name="SaveXML">
+      </command>
+      <command
+            defaultHandler="equinoobstim1.handlers.CloseProgramHandler"
+            id="EquiNOOBSTim1.comCloseProgram"
+            name="CloseProgram">
+      </command>
+      <command
+            defaultHandler="equinoobstim1.handlers.PluginManagerHandler"
+            id="EquiNOOBSTim1.pluginManager"
+            name="PluginManager">
+      </command>
+      <command
+            defaultHandler="equinoobstim1.handlers.ExportDB"
+            id="EquiNOOBSTim1.ExportDB"
+            name="ExportDB">
+      </command>
+   </extension>
+
+</plugin>

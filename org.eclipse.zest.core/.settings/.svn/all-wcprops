@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/.settings
+END
+org.eclipse.pde.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/.settings/org.eclipse.pde.prefs
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/.settings/org.eclipse.jdt.core.prefs
+END
+.api_filters
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/.settings/.api_filters
+END
+org.eclipse.jdt.ui.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/.settings/org.eclipse.jdt.ui.prefs
+END
+org.eclipse.pde.api.tools.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/.settings/org.eclipse.pde.api.tools.prefs
+END
+org.eclipse.ltk.core.refactoring.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/.settings/org.eclipse.ltk.core.refactoring.prefs
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/gestures
+END
+ZoomGestureListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/gestures/ZoomGestureListener.java
+END
+RotateGestureListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/2012l/sok/tim5/svn/!svn/ver/74/trunk/plugins/org.eclipse.zest.core/src/org/eclipse/zest/core/widgets/gestures/RotateGestureListener.java
+END
